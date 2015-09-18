@@ -1,0 +1,139 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jQuery Geometryangle Plugin Demo</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="geometryangle.js"></script>
+<link href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.css" rel="stylesheet" type="text/css">
+<style>
+body {color:#fff;}
+h1 { margin:0; padding:0; margin-left:150px;}
+</style>
+</head>
+
+<body>
+<div style="position: fixed; left: 0; right: 0; top: 0; bottom: 0;"></div>
+<div>
+<h1>Lucas Cassiano</h1>
+<div class="jquery-script-ads" style="margin:30px auto 0 150px;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
+<script>
+$(document).ready(function(){
+$('body').Geometryangle({
+
+// handle transparent colors
+mesh:{
+
+  width: 1.2,
+  height: 1.2,
+
+  // How far should the mesh vary into z-space.
+  depth: 1,
+
+  // Number of columns for the mesh.
+  columns: undefined,
+
+  columns_auto: true,
+
+  // Number of rows for the mesh.
+  rows: undefined,
+
+  rows_auto: true,
+  zoom: 1,
+  xRange: 0.8,
+  yRange: 0.1,
+  zRange: 1.0,
+  ambient: 'rgb(0, 0, 0)',
+  diffuse: 'rgba(255, 255, 255, 1)',
+  background: 'rgb(0, 0, 0)',
+  speed: 0.0002,
+  fluctuationSpeed: 1.5,
+  fluctuationIntensity: 0,
+  onRender: function () {
+  },
+  floorPosition: false,
+  draw: false
+
+}, 
+
+
+lights: {},
+
+// specify the thickness, color, stroke, etc. 
+line: {
+
+  fill: "rgba(255, 255, 255, 0.3)",
+  thickness: 0.5,
+  fluctuationIntensity: 1,
+  fluctuationSpeed: 0.3,
+  draw: true
+
+}, 
+
+// Set the point attributes for the vertex. 
+vertex: {
+
+  // Radius of vertice circle.
+  radius: 2,
+
+  fill: "rgba(255, 255, 255, 0.3)",
+
+  // Fluctuates opacity of vertex.
+  fluctuationSpeed: 0.5,
+
+  fluctuationIntensity: 0,
+  strokeWidth: 0.1,
+  strokeColor: "rgba(255, 255,255, 0)",
+
+  // Instead of setting alpha channel to zero
+  // Set draw to false to avoid computing.
+  draw: true
+
+}
+
+});
+});
+
+
+</script>
+
+</body>
+</html>
