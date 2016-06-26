@@ -2,23 +2,56 @@
     {"title":"Phys.IO",
       "date":"June 25, 2016",
       "place":"UFRN - TEAM",
-      "thumbnail":"img/thumb/p01.png",
-      "preview":"This was a good project",
-      "comment":"Aqui é Body Builder Ipsum PORRA! Eita porra!, tá saindo da jaula o monstro! Vem porra! Tá comigo porra. Ele tá olhando pra gente. Sabe o que é isso daí? Trapézio descendente é o nome disso aí. AHHHHHHHHHHHHHHHHHHHHHH..., porra!",
-      "keywords":"Tangible Interfaces, Hardware",
-      "image": "img/large/p01.png",
-      "url":"projects/index.html"
+      "thumbnail":"img/thumb/physio.png",
+      "preview":"Under Development",
+      "comment":"This project will be Published soon",
+      "keywords":"Wearable Interfaces, Hardware, Arduino, Sensor Array",
+      "image": "img/large/physio.png",
+      "url":"projects/phys_io/"
     },
 
     {"title":"Cubio",
-      "date":"June 25, 2016",
+      "date":"Summer, 2015",
       "place":"MIT - Media Lab - Changing Places",
       "thumbnail":"img/thumb/cubio.png",
       "preview":"A stackable Tangible Interface based on LEGO",
       "comment":"Developed at MIT - Media Lab, under coordination of <a href='http://jamesira.com'>Ira Winder</a> from Changing Places and also developed by <a href='http://marcteyssier.com'>Marc Teyssier</a>, Cubio is a tangible interfaced, initially designed to work as a tool for CityScope, where the user could create Buildings using legos and apply this design at the larger CityScope Table developed by Ira Winder.",
       "keywords":"Tangible Interfaces, Hardware",
       "image": "img/large/cubio.png",
-      "url":"projects/index.html"
+      "url":"projects/cubio/index.html"
+    },
+    
+    {"title":"FlexDGlove",
+      "date":"2012-2013",
+      "place":"UFRN NatalNet",
+      "thumbnail":"img/thumb/flexdglove.png",
+      "preview":"Low cost Dataglove for Virtual Applications",
+      "comment":"Started in 2013 by Dr. Rafael Aroca (rafaelaroca@ieee.org) and Dr. Rummenigged Dantas(rudsondant@gmail.com), professors at Universidade Federal do Rio Grande do Norte, FlexDGlove is a low cost dataglove designed to interact with simple virtual reality applications. The hardware was based on Arduino and flex sensors, while the software was totally based on Unity 3D. ",
+      "keywords":"Wearable Interface, Data Glove, Arduino",
+      "image": "img/large/flexdglove.png",
+      "url":"projects/flexdglove/"
+    },
+    
+    {"title":"Kayak Supremo",
+      "date":"2014",
+      "place":"MIT - Media Lab - Changing Places",
+      "thumbnail":"img/thumb/flexdglove.png",
+      "preview":"This game aims in make the player open and close his/her hand in order to control the avatar (a kayak).",
+      "comment":"The map is a river with several obstacles where the boad speed is increased during game play, so the user needs to interact using the glove in order to avoid the obstacles, if a obstacle is collided, the glove vibers, giving a feedback to player. ",
+      "keywords":"Unity, Seriour Games, Software, C#",
+      "image": "img/large/flexdglove.png",
+      "url":"projects/flexdglove/"
+    },
+    
+    {"title":"Sketch3D",
+      "date":"Summer, 2015",
+      "place":"MSOE - Milwaukee - Winsconsin",
+      "thumbnail":"img/thumb/sketch3d.png",
+      "preview":"Some Ideas just need a new perspective",
+      "comment":"Sketch 3D is a native Android App developed entirely by me, in 2014, as a study project. The app was made using Java, all based in Open GL ES 2.0, using Android Studio as IDE. ",
+      "keywords":"Android, Java, OpenGL, OpenGL ES, Mobile, Drawing, App, Software",
+      "image": "img/large/sketch3d.png",
+      "url":"https://play.google.com/store/apps/details?id=com.cassiano.sketch3d"
     }
 ]}
 
