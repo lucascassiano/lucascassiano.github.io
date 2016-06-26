@@ -35,12 +35,12 @@
     {"title":"Kayak Supremo",
       "date":"2014",
       "place":"MIT - Media Lab - Changing Places",
-      "thumbnail":"img/thumb/flexdglove.png",
+      "thumbnail":"img/thumb/kayaksupremo.png",
       "preview":"This game aims in make the player open and close his/her hand in order to control the avatar (a kayak).",
       "comment":"The map is a river with several obstacles where the boad speed is increased during game play, so the user needs to interact using the glove in order to avoid the obstacles, if a obstacle is collided, the glove vibers, giving a feedback to player. ",
       "keywords":"Unity, Seriour Games, Software, C#",
-      "image": "img/large/flexdglove.png",
-      "url":"projects/flexdglove/"
+      "image": "img/large/kayaksupremo.png",
+      "url":"projects/kayaksupremo/"
     },
     
     {"title":"Sketch3D",
