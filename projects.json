@@ -7,7 +7,7 @@
       "comment":"This project will be Published soon",
       "keywords":"Wearable Interfaces, Hardware, Arduino, Sensor Array",
       "image": "img/large/physio.png",
-      "url":"projects/phys_io/"
+      "url":"projects/phys_io/index.html"
     },
 
     {"title":"Cubio",
@@ -29,7 +29,7 @@
       "comment":"Started in 2013 by Dr. Rafael Aroca (rafaelaroca@ieee.org) and Dr. Rummenigged Dantas(rudsondant@gmail.com), professors at Universidade Federal do Rio Grande do Norte, FlexDGlove is a low cost dataglove designed to interact with simple virtual reality applications. The hardware was based on Arduino and flex sensors, while the software was totally based on Unity 3D. ",
       "keywords":"Wearable Interface, Data Glove, Arduino",
       "image": "img/large/flexdglove.png",
-      "url":"projects/flexdglove/"
+      "url":"projects/flexdglove/index.html"
     },
     
     {"title":"Kayak Supremo",
@@ -40,7 +40,7 @@
       "comment":"The map is a river with several obstacles where the boad speed is increased during game play, so the user needs to interact using the glove in order to avoid the obstacles, if a obstacle is collided, the glove vibers, giving a feedback to player. ",
       "keywords":"Unity, Seriour Games, Software, C#",
       "image": "img/large/kayaksupremo.png",
-      "url":"projects/kayaksupremo/"
+      "url":"projects/kayaksupremo/index.html"
     },
     
     {"title":"Sketch3D",
