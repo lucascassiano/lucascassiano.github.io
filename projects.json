@@ -1,0 +1,16 @@
+{"projects":[
+    {"title":"Cubio",
+      "date":"June 25, 2016",
+      "thumbnail":"p01.png",
+      "preview":"This was a good project",
+      "keywords":"Tangible Interfaces, Hardware",
+      "url":"google.com"
+    },
+    {"title":"Flex DGlove",
+      "date":"June 22, 2015",
+      "thumbnail":"p01.png",
+      "preview":"This was a good project",
+      "keywords":"Tangible Interfaces, Hardware",
+      "url":"google.com"
+    }
+]}
