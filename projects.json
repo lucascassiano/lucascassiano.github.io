@@ -15,7 +15,7 @@
       "place":"MIT - Media Lab - Changing Places",
       "thumbnail":"img/thumb/cubio.png",
       "preview":"A stackable Tangible Interface based on LEGO",
-      "comment":"Developed at MIT - Media Lab, under coordination of Ira Winder1 from Changing Places and also developed by Marc Teyssier2 (Fluid Interfaces), Cubio is a tangible interfaced, initially designed to work as a tool for CityScope, where the user could create Buildings using legos and apply this design at the larger CityScope Table developed by Ira Winder.",
+      "comment":"Developed at MIT - Media Lab, under coordination of <a href='http://jamesira.com'>Ira Winder</a> from Changing Places and also developed by <a href='http://marcteyssier.com'>Marc Teyssier</a>, Cubio is a tangible interfaced, initially designed to work as a tool for CityScope, where the user could create Buildings using legos and apply this design at the larger CityScope Table developed by Ira Winder.",
       "keywords":"Tangible Interfaces, Hardware",
       "image": "img/large/cubio.png",
       "url":"projects/index.html"
