@@ -1,16 +1,24 @@
 {"projects":[
+    {"title":"Phys.IO",
+      "date":"June 25, 2016",
+      "place":"UFRN - TEAM",
+      "thumbnail":"img/thumb/p01.png",
+      "preview":"This was a good project",
+      "comment":"Aqui é Body Builder Ipsum PORRA! Eita porra!, tá saindo da jaula o monstro! Vem porra! Tá comigo porra. Ele tá olhando pra gente. Sabe o que é isso daí? Trapézio descendente é o nome disso aí. AHHHHHHHHHHHHHHHHHHHHHH..., porra!",
+      "keywords":"Tangible Interfaces, Hardware",
+      "image": "img/large/p01.png",
+      "url":"projects/index.html"
+    }
+
     {"title":"Cubio",
       "date":"June 25, 2016",
-      "thumbnail":"p01.png",
+      "place":"MIT - Media Lab",
+      "thumbnail":"img/thumb/p01.png",
       "preview":"This was a good project",
+      "comment":"Aqui é Body Builder Ipsum PORRA! Eita porra!, tá saindo da jaula o monstro! Vem porra! Tá comigo porra. Ele tá olhando pra gente. Sabe o que é isso daí? Trapézio descendente é o nome disso aí. AHHHHHHHHHHHHHHHHHHHHHH..., porra!",
       "keywords":"Tangible Interfaces, Hardware",
-      "url":"google.com"
-    },
-    {"title":"Flex DGlove",
-      "date":"June 22, 2015",
-      "thumbnail":"p01.png",
-      "preview":"This was a good project",
-      "keywords":"Tangible Interfaces, Hardware",
-      "url":"google.com"
+      "image": "img/large/p01.png",
+      "url":"projects/index.html"
     }
 ]}
+
