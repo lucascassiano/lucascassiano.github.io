@@ -1,4 +1,15 @@
 {"projects":[
+    {"title":"Cards_UI",
+      "date":"July 5, 2016",
+      "place":"MIT - Media Lab",
+      "thumbnail":"img/thumb/cards_ui.png",
+      "preview":"Under Development",
+      "comment":"This project will be Published soon",
+      "keywords":"User Interfaces, Processing, Design, Java",
+      "image": "img/large/cards_ui.png",
+      "url":"projects/cards_ui/index.html"
+    },
+    
     {"title":"Phys.IO",
       "date":"June 25, 2016",
       "place":"UFRN - TEAM",
