@@ -3,8 +3,8 @@
       "date":"July 5, 2016",
       "place":"MIT - Media Lab",
       "thumbnail":"img/thumb/cards_ui.png",
-      "preview":"Under Development",
-      "comment":"This project will be Published soon",
+      "preview":"UI Kit for Processing (Java)",
+      "comment":"Cards_UI Is a Graphical User Interface kit for Processing. This UI was designed based on the old Unity (v3.5) GUI library dynamic model.",
       "keywords":"User Interfaces, Processing, Design, Java",
       "image": "img/large/cards_ui.png",
       "url":"projects/cards_ui/index.html"
