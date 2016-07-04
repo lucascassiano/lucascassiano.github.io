@@ -18,7 +18,7 @@
       "comment":"This project will be Published soon",
       "keywords":"Wearable Interfaces, Hardware, Arduino, Sensor Array",
       "image": "img/large/physio.png",
-      "url":"projects/phys_io/index.html"
+      "url":"#"
     },
 
     {"title":"Cubio",
@@ -29,7 +29,7 @@
       "comment":"Developed at MIT - Media Lab, under coordination of <a href='http://jamesira.com'>Ira Winder</a> from Changing Places and also developed by <a href='http://marcteyssier.com'>Marc Teyssier</a>, Cubio is a tangible interfaced, initially designed to work as a tool for CityScope, where the user could create Buildings using legos and apply this design at the larger CityScope Table developed by Ira Winder.",
       "keywords":"Tangible Interfaces, Hardware",
       "image": "img/large/cubio.png",
-      "url":"projects/cubio/index.html"
+      "url":"http://marcteyssier.com/project/cubio/"
     },
     
     {"title":"FlexDGlove",
@@ -40,7 +40,7 @@
       "comment":"Started in 2013 by Dr. Rafael Aroca (rafaelaroca@ieee.org) and Dr. Rummenigged Dantas(rudsondant@gmail.com), professors at Universidade Federal do Rio Grande do Norte, FlexDGlove is a low cost dataglove designed to interact with simple virtual reality applications. The hardware was based on Arduino and flex sensors, while the software was totally based on Unity 3D. ",
       "keywords":"Wearable Interface, Data Glove, Arduino",
       "image": "img/large/flexdglove.png",
-      "url":"projects/flexdglove/index.html"
+      "url":"#"
     },
     
     {"title":"Kayak Supremo",
