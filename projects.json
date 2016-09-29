@@ -10,17 +10,6 @@
       "image": "img/large/cards_ui.png",
       "url":"projects/cards_ui/index.html"
     },
-    
-    {"title":"Phys.IO",
-      "date":"June 25, 2016",
-      "place":"UFRN - TEAM",
-      "thumbnail":"img/thumb/physio.png",
-      "preview":"Under Development",
-      "comment":"This project will be Published soon",
-      "keywords":"Wearable Interfaces, Hardware, Arduino, Sensor Array",
-      "image": "img/large/physio.png",
-      "url":"#"
-    },
 
     {"title":"Cubio",
       "date":"Summer, 2015",
